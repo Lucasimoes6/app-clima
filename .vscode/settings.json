@@ -1,0 +1,12 @@
+{
+  // Desliga o autocompletar inline da IA (GitHub Copilot) só nesta pasta
+  "github.copilot.enable": {
+    "*": false
+  },
+
+  // Desliga as sugestões inline nativas do VS Code
+  "editor.inlineSuggest.enabled": false,
+
+  // Desliga o "Next Edit Suggestions" do Copilot
+  "github.copilot.nextEditSuggestions.enabled": false
+}
